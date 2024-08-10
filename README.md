@@ -34,7 +34,7 @@ This Streamlit application allows users to extract key information from invoices
 
    ```bash
    git clone https://github.com/Rafe2001/Swipe-Assesment.git
-   cd invoice-extractor
+   cd Swipe-Assesment
    ```
 
 2. **Set up a virtual environment:**
