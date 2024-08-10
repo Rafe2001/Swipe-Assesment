@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+python-dotenv
+langchain_groq
+langchain_chroma
+transformers
+llama_index
+llama-index-llms-groq
+pytesseract
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
