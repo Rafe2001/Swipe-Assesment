@@ -23,7 +23,7 @@ This Streamlit application allows users to extract key information from invoices
 
 - **Streamlit**: For building the web application interface.
 - **Pytesseract**: For optical character recognition (OCR) to extract text from images.
-- **LangChain**: For document loading, text splitting, and query processing.
+- **LamaIndex**: For document loading, indexing, and query processing.
 - **HuggingFace Embeddings**: For creating vector embeddings of text.
 - **Groq**: For language model processing and querying.
 - **PyPDF2**: For reading PDF files.
